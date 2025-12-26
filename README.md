@@ -1,8 +1,10 @@
+![GitHub Release](https://img.shields.io/github/v/release/davethepitt/awesome-writing-resources) ![Static Badge](https://img.shields.io/badge/Last_Updated-26th_Dec_2026-blue)
+
 # Awesome Writing Resources  
 As a poet, storyteller and playwright I wanted a way to store all those useful tools I found while searching. I then discovered the idea of "awesome" resources on Github and as I was learning Github I figured it would be a perfect place to store this for myself. I also figurre there are other people out there who would be interested so here it is.  
    
 Dave Pitt  
-24th December 2025  
+26th December 2025  
 
 ## Key
 * <img src="Assets\cloud.png" width = 15 alt="Cloud Logo"> - Internet / Cloud Based Application.
@@ -31,8 +33,10 @@ Dave Pitt
 * [Pages](https://apps.apple.com/us/app/pages/id409201541?mt=12) - Apple's very own word processor. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo">
 * [WPS](https://www.wps.com/) - Office suite with free PDF editing. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\linux-logo.png" width = 15 alt="Linux Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo"> 
 
-### Online Courses
+### Online Courses and Tutorials
 * [BBC Maestro](https://www.bbcmaestro.com/courses/category/writing) - Curated courses from the BBC by writers such as Alan Moore, Julia Donaldson and Carol Ann Duffy. 
+* [Dan Harmon Story Cricle](https://www.youtube.com/watch?v=-XGUVkOmPTA&pp=ygUXZGFuIGhhcm1vbiBzdG9yeSBjaXJjbGU%3D) - An great explaination of how Dan Harmon uses the Story Circle to create his work.
+* [How the Three Act Structure Works](https://www.youtube.com/watch?v=UM6AFZ2xcNI) - How the 3 act structure works with examples.
 
 ### Scripts
 * [Celtx](https://www.celtx.com/) - Online and app based tool which specialises in film and stage scripts. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo"> <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
