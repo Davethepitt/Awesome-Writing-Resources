@@ -4,7 +4,7 @@
 As a poet, storyteller and playwright I wanted a way to store all those useful tools I found while searching. I then discovered the idea of "awesome" resources on Github and as I was learning Github I figured it would be a perfect place to store this for myself. I also figurre there are other people out there who would be interested so here it is.  
    
 Dave Pitt  
-26th December 2025  
+1st February 2026 
 
 ## Key
 * <img src="Assets\cloud.png" width = 15 alt="Cloud Logo"> - Internet / Cloud Based Application.
@@ -39,9 +39,15 @@ Dave Pitt
 * [How the Three Act Structure Works](https://www.youtube.com/watch?v=UM6AFZ2xcNI) - How the 3 act structure works with examples.
 
 ### Scripts
+* [(beat)](https://www.beat-app.fi/) - Elegant, distraction free screenwriting app for MacOS and iOS. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo">
 * [Celtx](https://www.celtx.com/) - Online and app based tool which specialises in film and stage scripts. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo"> <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Final Draft](https://www.finaldraft.com/) - The Hollywood standard. Also includes mobile versions. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo">
-* [Playwriting Templates for LibreOffice](https://github.com/Davethepitt/Playwriting-Templates-For-LibreOffice) - A template which provides some set layouts for playscripts in Libre Office. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\linux-logo.png" width = 15 alt="Linux Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo"> 
+* [Playwriting Templates for LibreOffice](https://github.com/Davethepitt/Playwriting-Templates-For-LibreOffice) - A template which provides some set layouts for playscripts in Libre Office. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\linux-logo.png" width = 15 alt="Linux Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo">
+* [Trelby](https://trelby.org/) - Free, multiplatform, feature-rich screenwriting program. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\linux-logo.png" width = 15 alt="Linux Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo">
+
+### Social / Forums / Discord
+* [Redvolume - Discord](https://discord.com/invite/za4as7GGcb) - Server dedicated to sharing and archiving the work of community members. 
+* [Writing Prompts - Reddit](https://www.reddit.com/r/WritingPrompts/) - As it says on the tin. Writing prompts.
 
 ### Writing Assistance
 * [Cliche Finder](http://cliche.theinfo.org/) - Finds cliches in your writing. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
