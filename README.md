@@ -1,4 +1,4 @@
-![GitHub Release](https://img.shields.io/github/v/release/davethepitt/awesome-writing-resources) ![Static Badge](https://img.shields.io/badge/Last_Updated-1st-Feb-2026-blue)
+![GitHub Release](https://img.shields.io/github/v/release/davethepitt/awesome-writing-resources) ![Static Badge](https://img.shields.io/badge/Last_Updated-1st_Feb_2026-blue)
 
 # Awesome Writing Resources  
 As a poet, storyteller and playwright I wanted a way to store all those useful tools I found while searching. I then discovered the idea of "awesome" resources on Github and as I was learning Github I figured it would be a perfect place to store this for myself. I also figurre there are other people out there who would be interested so here it is.  
