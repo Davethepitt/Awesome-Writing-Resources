@@ -54,3 +54,4 @@ Dave Pitt
 * [Grammarly](https://www.grammarly.com/) - Writing assistant tool which reviews spelling, grammar and tone. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Hemingway App](https://hemingwayapp.com/) - Desktop and online app which helps with readability of text. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Surname Generator](https://surname-generator.com) - Generates realistic last names by origin (29 cultures including English, Japanese, Russian, Brazilian, Nigerian) plus fantasy, D&D and sci-fi flavors — useful for naming characters across stories. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
+* [AI eBook Pro](https://aiebookpro.com/) - Turns a one-sentence idea into a full non-fiction eBook draft with chapters and a cover, exported as PDF, EPUB or DOCX. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
