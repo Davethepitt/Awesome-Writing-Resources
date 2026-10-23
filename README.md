@@ -53,4 +53,5 @@ Dave Pitt
 * [Cliche Finder](http://cliche.theinfo.org/) - Finds cliches in your writing. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Grammarly](https://www.grammarly.com/) - Writing assistant tool which reviews spelling, grammar and tone. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Hemingway App](https://hemingwayapp.com/) - Desktop and online app which helps with readability of text. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
+* [Name Awesome](https://nameawesome.com/) - U.S. first-name popularity by year and decade since 1880, with meanings and origins. Useful for choosing period-appropriate character names. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 * [Surname Generator](https://surname-generator.com) - Generates realistic last names by origin (29 cultures including English, Japanese, Russian, Brazilian, Nigerian) plus fantasy, D&D and sci-fi flavors — useful for naming characters across stories. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
