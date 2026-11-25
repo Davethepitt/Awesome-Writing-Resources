@@ -26,6 +26,7 @@ Dave Pitt
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - Feature rich word processor for writers. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo">
 * [yWriter](https://www.spacejock.com/yWriter.html) - Basic but powerful plain text editor suited to larger projects. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo">
 * [RelationCanvas](https://relationcanvas.com/) - Free browser character relationship charts for fiction; labeled one-way arrows; PNG/SVG export; no account.
+* [Literess](https://literess.com/) - Writing companion for novels: reads the whole manuscript, comments in the margin and suggests edits you accept or reject. <img src="Assets\cloud.png" width = 15 alt="Cloud Logo">
 
 ### Office
 * [LibreOffice](https://www.libreoffice.org/) - Free, open source and cross-platform office suite. <img src="Assets\apple-logo.png" width = 15 alt="Apple Logo"> <img src="Assets\linux-logo.png" width = 15 alt="Linux Logo"> <img src="Assets\windows-logo.png" width = 15 alt="Windows Logo">   
